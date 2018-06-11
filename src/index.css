@@ -1,0 +1,17 @@
+@import '~antd/dist/antd.css';
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+#root{
+  width: 90%;
+  margin: 20px auto;
+  text-align: center;
+}
+
+.ant-table-thead > tr > th{
+  text-align: center;
+}
